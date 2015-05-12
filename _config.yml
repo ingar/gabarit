@@ -1,0 +1,6 @@
+name: Gabarit Template
+
+exclude:
+  - README
+  - Gemfile
+  - Gemfile.lock
